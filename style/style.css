@@ -1,0 +1,33 @@
+body {
+    margin: 10px 10%;
+    background-color: lightblue;
+    font-family: Cambria;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 350%;
+    letter-spacing: 11px;
+    text-align: center;
+}
+
+h2 {
+    padding: 0.2rem 0.5rem;
+    background-color: rosybrown;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+}
+h3{
+    padding: 0.2rem 0.5rem;
+    background-color: rosybrown;
+    color: white;
+    font-size: 150%;
+}
+
+p {
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center;
+    
+}
